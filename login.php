@@ -31,7 +31,3 @@ Developed by K Anbarasan
 </footer>
 </body>
 </html>
-
-
- margin:5px;
- }
